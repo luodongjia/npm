@@ -9,6 +9,7 @@
     "lint": "eslint src/",
     "lint-fix": "eslint --fix src/"
   },
+
   "dependencies": {
     "q": "^1.5.1",
     "think-cache": "^1.0.0",
