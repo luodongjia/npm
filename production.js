@@ -5,5 +5,10 @@ const instance = new Application({
   proxy: true, // use proxy
   env: 'production'
 });
+
+
+
+
+
 instance.run();
 
